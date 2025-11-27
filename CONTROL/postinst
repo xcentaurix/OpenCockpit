@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "***********************************"
-echo "*         Enigma2Cockpit          *"
+echo "*           OpenCockpit           *"
 echo "*               by                *"
 echo "*          dream-alpha            *"
 echo "***********************************"
