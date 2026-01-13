@@ -1,6 +1,6 @@
 Description: OpenCockpit
 Maintainer: xcentaurix
 Package: enigma2-plugin-extensions-opencockpit
-Version: 0.2.3
+Version: 0.2.4
 Architecture: all
 Depends: enigma2-plugin-extensions-moviecockpit, enigma2-plugin-extensions-mediacockpit, enigma2-plugin-systemplugins-powercockpit, enigma2-plugin-extensions-timeshiftcockpit, enigma2-plugin-extensions-piconcockpit, enigma2-plugin-extensions-tmdbcockpit, enigma2-plugin-extensions-mediathekcockpit, enigma2-plugin-extensions-tvmagazinecockpit

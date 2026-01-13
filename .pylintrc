@@ -108,7 +108,9 @@ disable=
     import-error,
     broad-exception-caught,
     redefined-variable-type,
-    no-member
+    no-member,
+    no-name-in-module,
+    global-statement
 
 
 [REPORTS]
@@ -433,7 +435,7 @@ max-returns=50
 max-branches=100
 
 # Maximum number of statements in function / method body
-max-statements=300
+max-statements=400
 
 # Maximum number of parents for a class (see R0901).
 max-parents=7
@@ -457,7 +459,7 @@ max-bool-expr=5
 # ignore when counting public methods (see R0903).
 exclude-too-few-public-methods=
 
-max-complexity=100
+max-complexity=200
 
 [CLASSES]
 

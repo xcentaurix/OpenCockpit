@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding=utf-8
 #
-# Copyright (C) 2018-2026 by dream-alpha
+# Copyright (C) 2018-2026 by xcentaurix
 #
 # In case of reuse of this source code please do not remove this copyright.
 #
@@ -21,6 +21,6 @@
 
 PLUGIN = "DreamCockpit"
 ID = "CPT"
-VERSION = "0.2.3"
-COPYRIGHT = "2018-2026 by dream-alpha"
+VERSION = "0.2.4"
+COPYRIGHT = "2018-2026 by xcentaurix"
 LICENSE = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version."
