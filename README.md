@@ -5,7 +5,7 @@ The basic principle of those plugins is seemless integration into the Enigma2 ba
 
 ## Features
 This Enigma2 plugin installs ALL OpenCockpit series plugins:
-<!--
+
 - https://github.com/xcentaurix/MovieCockpit (recordings database and more...)
 - https://github.com/xcentaurix/TimeshiftCockpit (on demand and permanent timeshift)
 - https://github.com/xcentaurix/TMDBCockpit (TMDB movie infos)
@@ -14,8 +14,6 @@ This Enigma2 plugin installs ALL OpenCockpit series plugins:
 - https://github.com/xcentaurix/MediathekCockpit (view and download Mediathek movies, watch Mediathek live channels)
 - https://github.com/xcentaurix/JobCockpit (multi-plugin job control)
 - https://github.com/xcentaurix/PiconCockpit (download channel picons)
--->
-- No plugins available yet. (Plugins are currently being ported from DreamOS)
 
 ## Links
 - Installation: https://xcentaurix.github.io/OpenCockpit
